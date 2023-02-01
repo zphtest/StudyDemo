@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_2AddComment_5.4.0p4", "UIFramework_2AddComment_5.4.0p4.csproj", "{4F150AE9-A5F2-6EB2-FB00-8A28BAD04AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_2AddComment_5.4.0p4.Editor", "UIFramework_2AddComment_5.4.0p4.Editor.csproj", "{AB295707-9B98-AAAD-C3CC-B4B48A1B291A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F150AE9-A5F2-6EB2-FB00-8A28BAD04AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F150AE9-A5F2-6EB2-FB00-8A28BAD04AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F150AE9-A5F2-6EB2-FB00-8A28BAD04AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F150AE9-A5F2-6EB2-FB00-8A28BAD04AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB295707-9B98-AAAD-C3CC-B4B48A1B291A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB295707-9B98-AAAD-C3CC-B4B48A1B291A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB295707-9B98-AAAD-C3CC-B4B48A1B291A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB295707-9B98-AAAD-C3CC-B4B48A1B291A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
